@@ -1,5 +1,7 @@
 # stones
-Created a game of 16 stones with a two player and AI mode using Python. Player take turns taking 1-4 stones each. Player with 1 stone left loses.
+Language: Python
+
+Created a game of 16 stones with a two player and AI mode. Player take turns taking 1-4 stones each. Player with 1 stone left loses.
 
 Displays the stones in a grid that is the ceiling value of square root by square root of remaining stones. 
 
